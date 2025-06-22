@@ -9,7 +9,7 @@ Carbon_emission_prediction/
 ├── data_cleaned.csv
 └── README.md
 
-## ✅ Work Summary
+##  Work Summary
 
 - Created project folder and notebook
 - Downloaded and converted dataset from `.xls` to `.csv`
